@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "CS353 Term Project"
+theme = "PaperMod"
+
+[params]
+description = "A website for CS353 project documents."
