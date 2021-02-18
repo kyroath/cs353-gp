@@ -1,4 +1,4 @@
-baseURL = "/cs353-gp/"
+baseURL = "https://kyroath.github.io/cs353-gp"
 languageCode = "en-us"
 title = "CS353 Term Project"
 theme = "PaperMod"
