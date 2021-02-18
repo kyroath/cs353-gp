@@ -1,7 +1,7 @@
 ---
 title: "Project Proposal"
 date: 2021-02-18T13:54:20+03:00
-draft: true
+draft: false
 ---
 
 This will be where the project proposal will be. The following text is just random text.
