@@ -4,7 +4,7 @@ date: 2021-02-18T13:54:20+03:00
 draft: true
 ---
 
-This will be where the project proposal will be.
+This will be where the project proposal will be. The following text is just random text.
 
 Ipsum elit reprehenderit sit tempor dolor eiusmod consectetur veniam aliqua sunt. Do eu esse quis aute officia laborum. Reprehenderit aliquip reprehenderit irure ex deserunt laborum esse exercitation sunt veniam adipisicing tempor Lorem laboris. Aliqua mollit enim esse Lorem.
 
